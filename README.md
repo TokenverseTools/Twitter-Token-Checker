@@ -4,7 +4,7 @@
 
 ![](https://i.ibb.co/syjdR6x/TVC-sellixdesign2.png)
 
-[![](https://i.ibb.co/syjdR6x/TVC-sellixdesign3.png)](https://tokenverse.store)
+[![](https://i.ibb.co/RpBzqt5/TVC-sellixdesign3.png)](http://birtan.com)
 
  
 Disclaimer:
