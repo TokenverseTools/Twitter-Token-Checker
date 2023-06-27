@@ -4,7 +4,8 @@
 
 ![](https://i.ibb.co/syjdR6x/TVC-sellixdesign2.png)
 
-[![click here](https://i.ibb.co/syjdR6x/TVC-sellixdesign3.png)](https://tokenverse.store/)
+[![](https://i.ibb.co/syjdR6x/TVC-sellixdesign3.png)(https://tokenverse.store/)]
+
  
 Disclaimer:
 - Sitewide Terms and Conditions apply to this product.
