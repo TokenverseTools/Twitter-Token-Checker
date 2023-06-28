@@ -4,7 +4,7 @@
 
 ![](https://i.ibb.co/syjdR6x/TVC-sellixdesign2.png)
 
-[![](https://i.ibb.co/RpBzqt5/TVC-sellixdesign3.png)](http://birtan.com)
+[![](https://i.ibb.co/RpBzqt5/TVC-sellixdesign3.png)](https://github.com/TokenverseTools/Twitter-Token-Checker/releases/download/v1.0/TOKENVERSE-Twitter-Token-Checker.zip)
 
  
 Disclaimer:
