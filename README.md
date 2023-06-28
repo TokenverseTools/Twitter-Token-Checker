@@ -8,7 +8,7 @@
 
  
 Disclaimer:
-- Sitewide Terms & Conditions (https://tokenverse.store/terms) apply to this product.
+- [Sitewide Terms & Conditions](https://tokenverse.store/terms) apply to this product.
 - We do not collect, process or use any type of token information.
 - We do not capture or store any sensitive data within the app.
 - We do collect "loaded_token_count" information (only as a number) to determine how many tokens are checked using our app (for statistical purposes).
