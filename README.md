@@ -1,4 +1,4 @@
-![1](https://i.ibb.co/PGNLDrH/TVC-mainlogo-forgithub1.png)
+![1](https://i.ibb.co/PGNLDrH/TVC-mainlogo-forgithub.png)
 ⠀
 ![](https://i.ibb.co/8jP9s5q/TVC-sellixdesign1.png)
 
