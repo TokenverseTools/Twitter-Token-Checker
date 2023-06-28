@@ -3,9 +3,7 @@
 ![](https://i.ibb.co/8jP9s5q/TVC-sellixdesign1.png)
 
 ![](https://i.ibb.co/syjdR6x/TVC-sellixdesign2.png)
-
 [![](https://i.ibb.co/RpBzqt5/TVC-sellixdesign3.png)](https://github.com/TokenverseTools/Twitter-Token-Checker/releases/download/v1.0/TOKENVERSE-Twitter-Token-Checker.zip)
-
 [![](https://i.ibb.co/nQfv36k/TVC-sellixdesign4.png)](https://tokenverse.store)
 
  
